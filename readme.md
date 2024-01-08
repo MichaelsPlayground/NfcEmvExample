@@ -1,16 +1,9 @@
-# Android examples
+# NFC EMV Example G8
 
-This is a collection of my examples for Android (Java) in these categories:
+G8 = Gradle 8 compatible
 
-- internal storage management
-- external storage management
-- image management
-- encryption
-- shared preferences
-- encrypted shared preferences
-- NFC (real device needed)
-- Material edittext
-- Material switch
+Use this app to dump a EMV payment card (e.g. Credit Card or German Girocard) and use this dump file as 
+source for the app **HCE CreditCard Emulator G8**.
 
 Soundfiles: https://mobcup.net/ringtone/ping-euf272ye/download/mp3
 
